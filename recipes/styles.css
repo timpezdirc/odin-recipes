@@ -1,0 +1,18 @@
+body {
+    background-color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}

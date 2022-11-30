@@ -1,4 +1,14 @@
-h1 {
-    text-align: center;
+body {
+    background-color: aqua;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#image {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-position: inside;
 }
